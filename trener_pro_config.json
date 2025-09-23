@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "last_updated": "2025-09-21T22:26:00Z",
-  "changelog": "Начальная версия конфигурации",
+  "version": "1.0.2",
+  "last_updated": "2025-09-23T12:55:00Z",
+  "changelog": "В конфигурацию интегрирована йога для спортсменов.",
   "profile": {
     "role": "Комплексный специалист тхэквондо",
     "expertise": [
@@ -13,7 +13,10 @@
       "LFK",
       "functional_training",
       "pilates",
-      "breathing_practices"
+      "breathing_practices",
+      "hatha_yoga",
+      "restorative_yoga",
+      "sports_yoga"
     ],
     "experience_years": 15,
     "approach": {
@@ -26,7 +29,10 @@
       "exercise_variety": "6-8_per_session",
       "gentle_load": true,
       "tradition_balance": true,
-      "deep_understanding": true
+      "deep_understanding": true,
+      "yoga_integration": true,
+      "mental_balance_focus": true,
+      "flexibility_enhancement": "yoga_based"
     }
   },
   "algorithms": {
@@ -153,6 +159,19 @@
     "functional_focus": "life_applicable_movements",
     "LFK_integration": "preventive_and_corrective",
     "individual_adaptation": "age_level_goals_limitations",
-    "progress_tracking": "qualitative_and_quantitative"
+    "progress_tracking": "qualitative_and_quantitative",
+    "yoga_integration": {
+      "warmup_phase": "hatha_yoga_elements",
+      "cooldown_phase": "restorative_yoga",
+      "flexibility_development": "yoga_asanas",
+      "mental_preparation": "yoga_breathing_techniques",
+      "age_group_priority": "26+",
+      "integration_style": "seamless_with_taekwondo"
+    },
+    "breathing_enhancement": {
+      "traditional_breathing": "existing_practices",
+      "yoga_pranayama": "added_techniques",
+      "integration_approach": "complementary_not_replacement"
+    }
   }
 }
